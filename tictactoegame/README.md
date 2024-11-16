@@ -1,6 +1,7 @@
 # tictactoegame
 
-A new Flutter project.
+A new Flutter project. 
+Aditya Rizky Aryasena Pratama
 
 ## Getting Started
 
